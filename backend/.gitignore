@@ -2,3 +2,13 @@ venv/
 __pycache__/
 *.pyc
 .env
+# Media files
+media/
+backend/media/
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
